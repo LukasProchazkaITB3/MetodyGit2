@@ -1,0 +1,10 @@
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\bin\Debug\MetodyGit2.exe.config
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\bin\Debug\MetodyGit2.exe
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\bin\Debug\MetodyGit2.pdb
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.csprojAssemblyReference.cache
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.Form1.resources
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.Properties.Resources.resources
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.csproj.GenerateResource.cache
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.csproj.CoreCompileInputs.cache
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.exe
+C:\Users\Procházka\Desktop\PRG\MetodyGit2\MetodyGit2\obj\Debug\MetodyGit2.pdb
